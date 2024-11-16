@@ -1,7 +1,7 @@
 Forked from Parrot-Build of IppSec. I just updated some commands since they had been deprecated in order to make this very useful playbook work again!
 
 
-** Make sure to pip install ansible, apt has an older copy **
+**Make sure to use pip while installing ansible, apt repositories are not as up to date**
 
 # Instructions
 * Start with Parrot HTB Edition
